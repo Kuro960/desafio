@@ -1,15 +1,11 @@
 
 /*usar mapa guardado en components como fondo de la pagina*/
-body {
-  background-image: url('./components/Mapa.jpg');
-  background-size: cover;
-  background-position: center;
-}
+
 /*cuadros de textos*/
 .text-box {
   background-color: rgba(162, 134, 134, 0.8);
   padding: 20px;
   border-radius: 10px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 6px rgba(214, 163, 163, 0.1);
   max-width: 600px;
 }
